@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Jeff Blakely: multi-agent swarms, agentic memory systems, AWS">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6F8FC"/>
+      <stop offset="1" stop-color="#E9EEF7"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF9900"/>
+      <stop offset="1" stop-color="#FFB84D"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FF9900" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#FF9900" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .t { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .edge { stroke: #b8c3d9; stroke-width: 1.4; }
+      .hot { stroke: #FF9900; stroke-width: 1.6; stroke-dasharray: 4 6; animation: flow 3s linear infinite; }
+      .node { fill: #ffffff; stroke: #8796b5; stroke-width: 1.5; }
+      .core { fill: #FF9900; }
+      .pulse { fill: none; stroke: #FF9900; stroke-width: 2; transform-origin: 1000px 150px; animation: pulse 3s ease-out infinite; }
+      @keyframes flow { to { stroke-dashoffset: -40; } }
+      @keyframes pulse { 0% { transform: scale(0.6); opacity: 0.8; } 100% { transform: scale(2.4); opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+
+  <!-- agent swarm: a coordinator with peers and a shared memory -->
+  <circle cx="1000" cy="150" r="120" fill="url(#glow)"/>
+  <g>
+    <line class="edge" x1="1000" y1="150" x2="905" y2="80"/>
+    <line class="edge" x1="1000" y1="150" x2="1100" y2="75"/>
+    <line class="edge" x1="1000" y1="150" x2="1120" y2="190"/>
+    <line class="edge" x1="1000" y1="150" x2="900" y2="215"/>
+    <line class="edge" x1="905" y1="80" x2="1100" y2="75"/>
+    <line class="edge" x1="1120" y1="190" x2="1020" y2="255"/>
+    <line class="edge" x1="900" y1="215" x2="1020" y2="255"/>
+    <line class="hot" x1="1000" y1="150" x2="1020" y2="255"/>
+    <line class="hot" x1="905" y1="80" x2="1000" y2="150"/>
+    <line class="hot" x1="1100" y1="75" x2="1120" y2="190"/>
+  </g>
+  <circle class="node" cx="905" cy="80" r="11"/>
+  <circle class="node" cx="1100" cy="75" r="11"/>
+  <circle class="node" cx="1120" cy="190" r="11"/>
+  <circle class="node" cx="900" cy="215" r="11"/>
+  <rect class="node" x="1002" y="243" width="36" height="24" rx="5"/>
+  <text class="m" x="1020" y="259" font-size="10" fill="#5a6886" text-anchor="middle">MEM</text>
+  <circle class="pulse" cx="1000" cy="150" r="18"/>
+  <circle class="core" cx="1000" cy="150" r="16"/>
+
+  <!-- text -->
+  <text class="m" x="64" y="78" font-size="15" fill="#C26E00" letter-spacing="2">$ whoami</text>
+  <text class="t" x="62" y="140" font-size="60" font-weight="700" fill="#0B1220">Jeff Blakely</text>
+  <rect x="64" y="160" width="96" height="4" rx="2" fill="url(#accent)"/>
+  <text class="t" x="64" y="203" font-size="22" fill="#2b3650">Multi-agent swarms · Agentic memory systems · AWS</text>
+  <text class="m" x="64" y="244" font-size="14" fill="#5a6886">27 years in enterprise tech  ·  Detroit, MI</text>
+</svg>
