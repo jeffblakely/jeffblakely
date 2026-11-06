@@ -51,6 +51,10 @@ On YouTube I run **[AI in 5](https://www.youtube.com/@AIin5m)**, which explains 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)
 ![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white)
 
+**HPC**<br />
+![AWS ParallelCluster](https://img.shields.io/badge/AWS_ParallelCluster-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Slurm](https://img.shields.io/badge/Slurm-0F4C81?style=flat-square)
+
 **Languages & frameworks**<br />
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
