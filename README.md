@@ -73,6 +73,7 @@ On YouTube I run **[AI in 5](https://www.youtube.com/@AIin5m)**, which explains 
 
 **Data & AI**<br />
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white)
 ![NVIDIA AI Enterprise](https://img.shields.io/badge/NVIDIA_AI_Enterprise-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![AMD ROCm](https://img.shields.io/badge/AMD_ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
