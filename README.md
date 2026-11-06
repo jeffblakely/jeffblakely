@@ -9,6 +9,7 @@
 <br />
 
 [![AgentQuanta](https://img.shields.io/badge/AgentQuanta-agentquanta.ai-0B1220?style=for-the-badge&labelColor=7C3AED)](https://agentquanta.ai/)
+[![HedgeAgent](https://img.shields.io/badge/HedgeAgent-hedgeagent.ai-0B1220?style=for-the-badge&labelColor=059669)](https://hedgeagent.ai/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/jeffblakely/)
 [![X](https://img.shields.io/badge/X-follow-0B1220?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/jeffblakely)
 [![YouTube](https://img.shields.io/badge/YouTube-AI_in_5-0B1220?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://www.youtube.com/@AIin5m)
@@ -22,7 +23,8 @@ I've spent 27 years in enterprise tech, and these days I build with AI agents: *
 
 ## 🚀 What I'm building
 
-**[AgentQuanta](https://agentquanta.ai/)**: seven tools on one infinite canvas, made for the agentic era. It's local-first with zero cloud, speaks MCP and OpenTelemetry, and is built in Detroit. Pay once, own it forever.
+- **[AgentQuanta](https://agentquanta.ai/)**: seven tools on one infinite canvas, made for the agentic era. It's local-first with zero cloud, speaks MCP and OpenTelemetry, and is built in Detroit. Pay once, own it forever.
+- **[HedgeAgent](https://hedgeagent.ai/)**: an AI-powered virtual hedge fund where multi-persona trading agents work side by side, with real-time P&L and a live signal feed.
 
 ## 🎙️ Teaching
 
