@@ -33,52 +33,52 @@ On YouTube I run **[AI in 5](https://www.youtube.com/@AIin5m)**, which explains 
 ## 🛠️ What my agents and I work on
 
 **Cloud**<br />
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-01A88D?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square)
-![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square)
-![Azure Container Apps](https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=flat-square)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
+[![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-01A88D?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/bedrock/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)](https://azure.microsoft.com/)
+[![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square)](https://azure.microsoft.com/products/ai-services/openai-service)
+[![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square)](https://ai.azure.com/)
+[![Azure Container Apps](https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=flat-square)](https://azure.microsoft.com/products/container-apps)
+[![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square)](https://www.microsoft.com/security/business/identity-access/microsoft-entra-id)
 
 **Infrastructure & DevOps**<br />
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)
-![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat-square)](https://learn.microsoft.com/azure/azure-resource-manager/bicep/overview)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square)](https://azure.microsoft.com/products/devops)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)](https://learn.microsoft.com/powershell/)
+[![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-FA582D?style=flat-square&logo=paloaltonetworks&logoColor=white)](https://www.paloaltonetworks.com/)
 
 **HPC**<br />
-![AWS ParallelCluster](https://img.shields.io/badge/AWS_ParallelCluster-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Slurm](https://img.shields.io/badge/Slurm-0F4C81?style=flat-square)
+[![AWS ParallelCluster](https://img.shields.io/badge/AWS_ParallelCluster-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/hpc/parallelcluster/)
+[![Slurm](https://img.shields.io/badge/Slurm-0F4C81?style=flat-square)](https://slurm.schedmd.com/)
 
 **Languages & frameworks**<br />
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)](https://tauri.app/)
 
 **Auth, payments & email**<br />
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
-![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+[![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)](https://clerk.com/)
+[![Okta](https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white)](https://www.okta.com/)
+[![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)](https://stripe.com/)
+[![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)](https://resend.com/)
 
 **Data & AI**<br />
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white)
-![NVIDIA AI Enterprise](https://img.shields.io/badge/NVIDIA_AI_Enterprise-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![AMD ROCm](https://img.shields.io/badge/AMD_ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)](https://www.anthropic.com/claude)
+[![Grok](https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white)](https://x.ai/grok)
+[![NVIDIA AI Enterprise](https://img.shields.io/badge/NVIDIA_AI_Enterprise-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/data-center/products/ai-enterprise/)
+[![AMD ROCm](https://img.shields.io/badge/AMD_ROCm-ED1C24?style=flat-square&logo=amd&logoColor=white)](https://www.amd.com/en/products/software/rocm.html)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 
 ## 📜 Certifications
 
