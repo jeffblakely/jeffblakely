@@ -30,7 +30,7 @@ I've spent 27 years in enterprise tech, and these days I build with AI agents: *
 
 On YouTube I run **[AI in 5](https://www.youtube.com/@AIin5m)**, which explains how AI actually works in about five minutes per idea.
 
-## 🛠️ What I work with
+## 🛠️ What my agents work with
 
 **Cloud**<br />
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
