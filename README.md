@@ -66,6 +66,14 @@ On YouTube I run **[AI in 5](https://www.youtube.com/@AIin5m)**, which explains 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 
+## 📜 Certifications
+
+[![Solutions Architect Professional](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=232F3E)](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+[![Solutions Architect Associate](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=232F3E)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![SysOps Administrator Associate](https://img.shields.io/badge/AWS_Certified-SysOps_Administrator_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=232F3E)](https://aws.amazon.com/certification/certified-cloudops-engineer-associate/)
+[![AI Practitioner · Early Adopter](https://img.shields.io/badge/AWS_Certified-AI_Practitioner_·_Early_Adopter-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=232F3E)](https://aws.amazon.com/certification/certified-ai-practitioner/)
+[![AWS Partner: Generative AI Essentials](https://img.shields.io/badge/AWS_Partner-Generative_AI_Essentials-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=232F3E)](https://aws.amazon.com/partners/training/)
+
 ## 🌍 Open-source contributions
 
 <!-- prs:start -->
