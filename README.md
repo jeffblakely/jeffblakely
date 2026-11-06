@@ -39,7 +39,6 @@ On YouTube I run **[AI in 5](https://www.youtube.com/@AIin5m)**, which explains 
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square)
 ![Azure Container Apps](https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=flat-square)
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat-square)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 **Infrastructure & DevOps**<br />
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
